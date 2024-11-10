@@ -1,0 +1,3 @@
+0 Hutan tidak terbakar
+1 Hutan terbakar
+2 hutan berkabut
