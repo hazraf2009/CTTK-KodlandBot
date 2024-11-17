@@ -78,7 +78,7 @@ async def check(ctx):
             #proses gambar ke model
             class_name, confidence_score = get_class("converted_keras\keras_model.h5", "converted_keras\labels.txt", file_name)
             if confidence_score <= 0.50:
-                info = "GAMBAR APA INI COKKKK..... TAK TAH"
+                info = "GAMBAR APA INI COKKKK..... TAK TAHU"
             info = f"Gambar ini adalah: {class_name} \nDengan tingkat kepercayaan: {confidence_score}"
             #tampilkan ke bot discord
             await ctx.send(info)
