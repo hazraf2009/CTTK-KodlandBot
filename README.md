@@ -15,3 +15,4 @@ Jadi pada projek kali ini kami disuruh guru kami **Kak Joan** untuk membuat sebu
 6. Lalu ketikkan ***$check dan unggahkan gambar yang ingin di deteksi***.
 
 # Result
+![Result](foto readme\#general _ hazraf's server - Discord 11_17_2024 1_25_35 PM.png)
